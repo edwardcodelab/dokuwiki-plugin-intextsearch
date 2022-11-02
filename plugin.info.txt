@@ -1,0 +1,7 @@
+base   intextsearch
+author dodotori @ dokuwiki forum
+email  dodotori@localhost
+date   2022-10-27
+name   intextsearch plugin
+desc   intextsearch
+url    https://github.com/edwardcodelab/dokuwiki-plugin-intextsearch
